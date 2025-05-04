@@ -8,6 +8,7 @@ echo "hello word";
 
 $name = "refa";
 $major = "Infor";
+$nim = "H1D024021"
 
 ?>
 
@@ -21,5 +22,7 @@ $major = "Infor";
 <body>
     <h1> Halo nama saya <?php echo $name ?> </h1>
     <h1> Saya dari jurusan <?php echo $name ?> </h1>
+    <h1> NIM saya <?php echo $nim ?></h1>
+
 </body>
 </html>
